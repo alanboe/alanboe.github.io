@@ -45,18 +45,25 @@ sections:
           description: |2-
             At Archkey I worked as a low voltage project manager for many medical clinics, the City of Burnsville and the Sphere. These projects included AV systems, access control, CCTV, fiber optic cabling, copper network cabling, ordering material, coordinating material shipments and labor needs. 
 
-        - title: 'Teaching Assistant: Robotics'
-          company: University of Minnesota
-          company_url: 'https://www.umn.edu'
-          company_logo: umn
-          location: Minneapolis, MN
-          date_start: '2024-01-11'
-          date_end: '2024-05-03'
+        - title: 'Limited Energy Project Manager'
+          company: Collins Electric
+          company_url: 'https://collinsmn.com/'
+          company_logo: collins-logo
+          location: St. Paul, MN
+          date_start: '2012'
+          date_end: '2020'
           description: |2-
-              Responsibilities include:
-              * Created, revised, and graded examinations to accurately reflect students’ knowledge of course material
-              * Conducted lectures to review previous exams and answered questions to promote student success
-              *	Interacted with students to create a classroom environment that fit individual learning needs
+            In this role I was the project manager for many large senior living buildings and communities along with many large multi-dwelling unit buildings. My responsibilities included designing low voltage systems with owners/general contractors/subcontractors, pricing the installation of theses systems, coordinating manpower and material along with coordination with the different building utilities andservice providers. These systems include voice, data, CCTV, guest entry, access control, fiber optic and CATV cabling.
+
+        - title: 'Safety Coordinator'
+          company: Egan
+          company_url: 'https://eganco.com/'
+          company_logo: egan
+          location: Champlin, MN
+          date_start: '2012'
+          date_end: '1998'
+          description: |2-
+            Planned, coordinated and conducted safety training for general worksite conditions. Provided site specific training for hazards such as confined space, bucket trucks, forklifts, scissor lift and power actuated tools. Conducted monthly safety committee meetings with the goal to improve company safety. Implemented changes of company issued Personal Protection Equipment which increased how often PPE was used and reduced injuries. Helped injured employees return to work as quickly as possible including finding positions to fit within their required work restrictions. This reduced our Experience Mod Rate and reduced insurance costs. Served as company EEO Officer and ensured that the company was in compliance with city, county and state requirements while also working at job fairs and community outreach programs. 
 
     design:
       columns: '2'
