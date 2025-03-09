@@ -51,7 +51,7 @@ sections:
           company_logo: collins-logo
           location: St. Paul, MN
           date_start: '2012-01-01'
-          date_end: '2020-6-30'
+          date_end: '2020-06-30'
           description: |2-
             In this role I was the project manager for many large senior living buildings and communities along with many large multi-dwelling unit buildings. My responsibilities included designing low voltage systems with owners/general contractors/subcontractors, pricing the installation of theses systems, coordinating manpower and material along with coordination with the different building utilities andservice providers. These systems include voice, data, CCTV, guest entry, access control, fiber optic and CATV cabling.
 
