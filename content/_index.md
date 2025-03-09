@@ -65,22 +65,16 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: 'Field Service Engineer - Life Sciences'
-          company: PAR Systems
-          company_url: 'https://www.par.com/'
-          company_logo: par
-          location: Shoreview, MN
+        - title: 'Senior Project Manager'
+          company: ArchKey Solutions - Technologies
+          company_url: 'https://www.archkey.com/'
+          company_logo: akt
+          location: Plymouth, MN
           date_start: '2024-05-20'
           date_end: ''
           description: |2-
-              Responsibilities include:
-              *	Designed, programmed, tested, commissioned, installed, and maintained a variety of automation equipment with a wide array of features including HMI, robotic arms, SCARA robots, computer vision, servos, pneumatics, and barcode readers
-              *	Created and executed machine tests to ensure products met rigorous reliability, safety, regulatory, and customer standards
-              *	Constructed positive relationships with clients and ensured high levels of satisfaction
-              *	Developed and delivered customized training programs and documentation for customers, empowering them to effectively operate and troubleshoot automation systems
-              *	Assisted with integration of AI/LLMs into business workflows while maintaining data security
-              *	Completed master’s capstone project exploring integration of machine learning for document checking and verification 
-              
+            At Archkey I worked as a low voltage project manager for many medical clinics, the City of Burnsville and the Sphere. These projects included AV systems, access control, CCTV, fiber optic cabling, copper network cabling, ordering material, coordinating material shipments and labor needs. 
+
         - title: 'Teaching Assistant: Robotics'
           company: University of Minnesota
           company_url: 'https://www.umn.edu'
@@ -93,56 +87,7 @@ sections:
               * Created, revised, and graded examinations to accurately reflect students’ knowledge of course material
               * Conducted lectures to review previous exams and answered questions to promote student success
               *	Interacted with students to create a classroom environment that fit individual learning needs
-              
-        - title: Engineering Intern
-          company: ProKey Facilities
-          company_url: 'https://www.archkey.com/prokey/'
-          company_logo: prokey
-          location: Plymouth, MN
-          date_start: '2022-05-12'
-          date_end: '2024-05-10'
-          description:  |2-
-              Responsibilities include:
-              * Assisted with procurement, programming, and installation of mechanical equipment and controls systems for large-scale commercial buildings
-              *	Designed pre-functional and functional commissioning tests based off controls documentation and schedules for various mechanical equipment
-              *	Streamlined project management processes using Python and Microsoft VBA
-              *	Mentored first year intern throughout summer program and provided feedback, and coaching
-        - title: AutoCAD Specialist Intern
-          company: 'Archkey Solutions: Technologies'
-          company_url: 'https://www.archkey.com/'
-          company_logo: akt
-          location: Plymouth, MN
-          date_start: '2021-02-12'
-          date_end: '2024-05-10'
-          description:  |2-
-              Responsibilities include:
-              * Facilitated change management through maintenance of AutoCAD blueprint database in conjunction with physical site changes
-              * Assisted the planning, logistics, and project management of various multi-million-dollar construction projects from beginning to end
-              * Identified equipment needs and procured necessary materials
-        - title: Delivery Driver Helper
-          company: 'United Parcel Service'
-          company_url: 'https://www.ups.com/us/en/Home.page'
-          company_logo: ups
-          location: Maple Grove, MN
-          date_start: '2019-11-12'
-          date_end: '2021-01-12'
-          description:  |2-
-              Responsibilities included:
-              * Ensured efficient and accurate deliveries while maintaining rigorous workload during peak season while adhering to a strict schedule
-              * Communicated with customers regarding questions and concerns in a timely, professional manner
-              * Adapted to unforeseen circumstances due to changes in weather, workload, and conditions
-        - title: Head Lifeguard
-          company: 'YMCA'
-          company_url: 'https://www.ymcanorth.org/'
-          company_logo: ymca
-          location: Andover, MN
-          date_start: '2021-01-12'
-          date_end: '2018-01-12'
-          description:  |2-
-              Responsibilities included:
-              * Coordinated teams of lifeguards during shifts in order to ensure the safety of large numbers of patrons through direct and decisive leadership
-              * Interacted with customers and students from many cultural backgrounds and a wide range of abilities in order to teach lifelong skills in and around water
-              * Performed other facility responsibilities to maintain adherence to cleanliness and safety requirements
+
     design:
       columns: '2'
 

@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Alexander Besch
+title: Alan Boe
 
 # Name pronunciation (optional)
 name_pronunciation: ""
 
 # Full name (for SEO)
-first_name: Alexander
-last_name: Besch
+first_name: Alan
+last_name: Boe
 
 # Status emoji
 status:
