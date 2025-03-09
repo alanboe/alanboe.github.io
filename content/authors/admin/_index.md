@@ -49,10 +49,15 @@ education:
 skills:
   - name: Technical
     items:
-      - name: Microsoft Office
+      - name: Microsoft Office Suite
+        description: ''
+        percent: 100
+        icon: computer
+        icon_pack: fas
+      - name: Accubid
         description: ''
         percent: 96
-        icon: microsoft
+        icon: computer
         icon_pack: fas
       - name: Project Management
         description: ''
