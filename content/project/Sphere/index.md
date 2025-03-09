@@ -2,9 +2,7 @@
 title: Las Vegas Sphere
 summary: Managed network infrastructure installation for the Las Vegas Sphere, ensuring seamless connectivity and performance.
 tags:
-  - AIML
-  - Assistive Technology
-  - Robotics
+  - Project Management
 date: '2024-12-12T00:00:00Z'
 
 external_link: ''

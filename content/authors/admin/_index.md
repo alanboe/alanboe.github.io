@@ -25,13 +25,13 @@ organizations:
     url: https://dunwoody.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include artifically intelligent agents, intelligent robotics, and manufacturing.
+bio: Experienced Low Voltage Construction Project Manager specializing in the installation and management of advanced systems for high-profile projects.
 
-# Interests to show in About widget
-interests:
-  - Artificial Intelligence & Machine Learning
-  - Robot Manipulation and optimization
-  - LLMs
+# # Interests to show in About widget
+# interests:
+#   - Artificial Intelligence & Machine Learning
+#   - Robot Manipulation and optimization
+#   - LLMs
 
 # Education to show in About widget
 education:
@@ -120,5 +120,7 @@ highlight_name: true
 After earning my undergraduate degree, I immediately pursued my passion for robotics by enrolling in the Master’s program. This passion took root during a senior-year robotics course, where I had the chance to work with cutting-edge technologies like TensorFlow and UR5 robots. The timing was serendipitous—it coincided with the rise of generative AI tools like ChatGPT. Witnessing the transformative potential of these technologies firsthand not only sparked my interest in advanced robotics but also solidified my decision to specialize in this field.
 
 My academic focus lies at the intersection of robot perception, intelligence, and manipulation. I am particularly fascinated by how robots can interpret their environments, make intelligent decisions, and perform intricate manipulation tasks. As I advance through my Master’s program, I am driven by a deep curiosity and a commitment to contribute meaningfully to the rapidly evolving field of robot cognition. -->
-Fill out later - Content - Authors - Admin - _index.md
+As a seasoned Low Voltage Construction Project Manager, I specialize in overseeing the installation and management of essential low voltage systems across a wide range of high-profile projects. With hands-on experience on iconic developments like the Las Vegas Sphere, I have successfully led the integration of complex network, audiovisual, and security systems, ensuring seamless functionality and cutting-edge technology. My expertise extends to diverse sectors, including assisted living facilities, where I prioritize safety, accessibility, and reliable communication systems, and multi-dwelling high-rise condominiums, where I manage the deployment of advanced infrastructure for optimal resident experience.
+
+Throughout my career, I have honed my ability to collaborate with architects, engineers, and contractors to deliver projects on time and within budget. Whether managing large-scale commercial venues, residential buildings, or specialized facilities, I am committed to providing high-quality solutions that enhance the functionality and efficiency of every project. My hands-on approach, attention to detail, and problem-solving skills ensure that every low voltage system is executed with precision and aligns with the project’s unique requirements.
 {style="text-align: justify;"}

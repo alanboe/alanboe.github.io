@@ -184,10 +184,10 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: AI/ML Cognition
-          tag: AIML
-        - name: Mechanical Design
-          tag: Mechanical
+        # - name: AI/ML Cognition
+        #   tag: AIML
+        # - name: Mechanical Design
+        #   tag: Mechanical
 
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
@@ -256,8 +256,8 @@ sections:
       # text: |-
       #   Please reach out, I would love to chat!
       # Contact (add or remove contact options as necessary)
-      email: axbesch@gmail.com
-      phone: 763 482 4173
+      email: slanboe@gmail.com
+      phone: 763 438 4314
       # appointment_url: 'https://calendly.com'
       address:
         # street: "Minneapolis, MN"
