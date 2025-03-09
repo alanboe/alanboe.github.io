@@ -1,5 +1,5 @@
 ---
-title: Condo Buildings
+title: Senior Living Buildings
 summary: As a Low Voltage Construction Project Manager, I specialize in installing and integrating systems such as CATV, CCTV, voice/data, fiber optics, access control, intercoms, and nurse call systems across senior housing facilities, from independent living to end-of-life care. I ensure each system is tailored to meet the unique needs of residents while prioritizing safety, security, and seamless functionality for all levels of care.
 tags:
 
