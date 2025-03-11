@@ -56,7 +56,7 @@ sections:
             In this role I was the project manager for many large senior living buildings and communities along with many large multi-dwelling unit buildings. My responsibilities included designing low voltage systems with owners/general contractors/subcontractors, pricing the installation of theses systems, coordinating manpower and material along with coordination with the different building utilities andservice providers. These systems include voice, data, CCTV, guest entry, access control, fiber optic and CATV cabling.
 
         - title: 'Safety Coordinator'
-          company: Egan
+          company: Egan / Collisys
           company_url: 'https://eganco.com/'
           company_logo: egan
           location: Champlin, MN
