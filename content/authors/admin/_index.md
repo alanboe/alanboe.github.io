@@ -49,10 +49,20 @@ education:
 skills:
   - name: Technical
     items:
+      - name: OSHA 30
+        description: ''
+        percent: 100
+        icon: helmet-safety
+        icon_pack: fas
       - name: Microsoft Office Suite
         description: ''
         percent: 100
         icon: computer
+        icon_pack: fas
+      - name: BlueBeam
+        description: ''
+        percent: 100
+        icon: file
         icon_pack: fas
       - name: Accubid
         description: ''
